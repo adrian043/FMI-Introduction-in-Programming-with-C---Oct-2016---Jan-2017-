@@ -1,0 +1,3 @@
+﻿  Matrix04.cpp
+c:\users\adi\documents\visual studio 2015\projects\arraysandmatrixcpp\matrix04\matrix04.cpp(11): warning C4101: 'myNewArr2': unreferenced local variable
+  Matrix04.vcxproj -> C:\Users\Adi\documents\visual studio 2015\Projects\ArraysAndMatrixCPP\Debug\Matrix04.exe
