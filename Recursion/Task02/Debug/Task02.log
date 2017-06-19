@@ -1,0 +1,4 @@
+﻿  Task02.cpp
+c:\users\adi\documents\visual studio 2015\projects\recursion\task02\task02.cpp(7): warning C4018: '<': signed/unsigned mismatch
+c:\users\adi\documents\visual studio 2015\projects\recursion\task02\task02.cpp(20): warning C4018: '<': signed/unsigned mismatch
+  Task02.vcxproj -> C:\Users\Adi\documents\visual studio 2015\Projects\Recursion\Debug\Task02.exe
