@@ -1,0 +1,3 @@
+﻿  CaT02.cpp
+c:\users\adi\documents\visual studio 2015\projects\charsandstrings\cat02\cat02.cpp(12): warning C4267: 'initializing': conversion from 'size_t' to 'char', possible loss of data
+  CaT02.vcxproj -> C:\Users\Adi\documents\visual studio 2015\Projects\CharsAndStrings\Debug\CaT02.exe

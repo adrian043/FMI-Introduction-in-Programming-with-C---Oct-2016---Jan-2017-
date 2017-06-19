@@ -1,0 +1,4 @@
+﻿  CaT06.cpp
+c:\users\adi\documents\visual studio 2015\projects\charsandstrings\cat06\cat06.cpp(41): warning C4018: '<': signed/unsigned mismatch
+c:\users\adi\documents\visual studio 2015\projects\charsandstrings\cat06\cat06.cpp(50): warning C4018: '<': signed/unsigned mismatch
+  CaT06.vcxproj -> C:\Users\Adi\documents\visual studio 2015\Projects\CharsAndStrings\Debug\CaT06.exe
